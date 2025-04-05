@@ -28,6 +28,7 @@ git clone https://github.com/qvim-aes/qvim-submission.git
 
 ```
 conda create -n qvim-submission python=3.10 jupyter
+conda activate qvim-submission
 python -m jupyterlab
 ```
 

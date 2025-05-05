@@ -4,12 +4,12 @@ This repository contains the submission package of [Query by Vocal Imitation cha
 
 Participants should clone this repository, and please ensure that you can successfully run [AES-QVIM2025_submission_template.ipynb](AES-QVIM2025_submission_template.ipynb) within the repository. Detailed instructions are provided in the template file. 
 
-For your final submission, please submit only the completed template file by email to [qvim.aes@gmail.com](mailto:qvim-aes@gmail.com) using your registration email address, and rename the template as {teamname}_{submissionNumber}.ipynb. Please note that we only accept three submissions per team. 
+For your final submission, please submit only the completed template file by email to [qvim.aes@gmail.com](mailto:qvim-aes@gmail.com) using your registration email address, and rename the template as {teamName}_{submissionNumber}.ipynb. Please note that we only accept three submissions per team. 
 
 
 ## Setup
 
-Your inference code will be run on Ubuntu (24.04) using a conda environment with Python 3.10.
+Your inference code will be run on Ubuntu (24.04) using a conda environment with Python 3.10. Please specify your conda environment if a different Python version is needed.
 Additional packages must be installed with pip in the notebooks directly (see the two example notebooks).
 You may use the functions provided in `helpers.py`; however, do not modify this file.
 
